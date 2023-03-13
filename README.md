@@ -14,7 +14,7 @@ I do not imply to follow the track of a standard textbook. We will skip the easy
 
 ## Description in Chinese
 
-我保留了一些数据结构和算法，只有这样才知道你学的是计算机。
+[我保留了一些数据结构和算法，只有这样才知道你学的是计算机。](https://www.bilibili.com/video/BV1x84y1j7MD/?spm_id_from=333.337.search-card.all.click&vd_source=a460e8545d2cbf0461a5e46dc32cf7e8)
 
 ## Reference
 
